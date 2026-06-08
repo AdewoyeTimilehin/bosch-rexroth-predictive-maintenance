@@ -123,13 +123,13 @@ The analysis is based on **4 interconnected datasets** containing **864,000 rows
 The interactive dashboard consists of **3 pages** built on PostgreSQL views:
 
 ### Page 1 — Fleet Health Overview
-![Fleet Health Overview](dh1.png)
+![Fleet Health Overview](dh3.png)
 
 ### Page 2 — Failure & Maintenance Analysis
 ![Failure and Maintenance](dh2.png)
 
 ### Page 3 — Sensor & Operational Insights
-![Sensor Insights](dh3.png)
+![Sensor Insights](dh1.png)
 
 ---
 
