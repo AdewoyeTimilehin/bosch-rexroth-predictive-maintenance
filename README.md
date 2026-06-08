@@ -1,6 +1,6 @@
 # 🔧 Bosch Rexroth AG — Predictive Maintenance for Hydraulic Systems
 
-![Project Banner](dashboard/fleet_health_overview.png)
+![Project Banner](Pic.jpg)
 
 ## 📌 Project Overview
 
